@@ -1,0 +1,23 @@
+{
+  "name": "npm-l00113360",
+  "version": "1.2.0",
+  "description": "This is a test package to display a welcome message to the user",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/L00113360/npm-test-l00113360.git"
+  },
+  "keywords": [
+    "research",
+    "test"
+  ],
+  "author": "Liam Whorriskey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/L00113360/npm-test-l00113360/issues"
+  },
+  "homepage": "https://github.com/L00113360/npm-test-l00113360#readme"
+}
