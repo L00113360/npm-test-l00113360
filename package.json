@@ -4,7 +4,7 @@
   "description": "This is a test package to display a welcome message to the user",
   "main": "index.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/L00113360/npm-test-l00113360/issues"
   },
-  "homepage": "https://github.com/L00113360/npm-test-l00113360#readme"
+  "homepage": "https://github.com/L00113360/npm-test-l00113360#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
 }
