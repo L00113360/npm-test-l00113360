@@ -21,7 +21,9 @@
   },
   "homepage": "https://github.com/L00113360/npm-test-l00113360#readme",
   "dependencies": {
-    "chai": "^4.2.0",
     "mocha": "^5.2.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0"
   }
 }
